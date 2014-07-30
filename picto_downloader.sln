@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "picto_downloader", "picto_downloader\picto_downloader.fsproj", "{50C2A657-2C13-48F5-9BD8-CAC01E6880E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50C2A657-2C13-48F5-9BD8-CAC01E6880E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C2A657-2C13-48F5-9BD8-CAC01E6880E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C2A657-2C13-48F5-9BD8-CAC01E6880E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C2A657-2C13-48F5-9BD8-CAC01E6880E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = picto_downloader\picto_downloader.fsproj
+	EndGlobalSection
+EndGlobal
